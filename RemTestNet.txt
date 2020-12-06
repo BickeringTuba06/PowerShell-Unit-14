@@ -1,0 +1,408 @@
+11/8/2020 7:37:47 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.0.0.1
+NameResolutionResults  : 1.0.0.1
+                         1.1.1.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/8/2020 7:38:44 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.0.0.1
+NameResolutionResults  : 1.0.0.1
+                         1.1.1.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/8/2020 7:39:21 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.0.0.1
+NameResolutionResults  : 1.0.0.1
+                         1.1.1.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/8/2020 7:42:38 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.0.0.1
+NameResolutionResults  : 1.0.0.1
+                         1.1.1.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/8/2020 7:45:28 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.0.0.1
+NameResolutionResults  : 1.0.0.1
+                         1.1.1.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/8/2020 7:48:43 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.1.1.1
+NameResolutionResults  : 1.1.1.1
+                         1.0.0.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/8/2020 7:49:14 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.1.1.1
+NameResolutionResults  : 1.1.1.1
+                         1.0.0.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/8/2020 8:02:08 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.1.1.1
+NameResolutionResults  : 1.1.1.1
+                         1.0.0.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/8/2020 8:06:04 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.1.1.1
+NameResolutionResults  : 1.1.1.1
+                         1.0.0.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/15/2020 6:53:57 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.1.1.1
+NameResolutionResults  : 1.1.1.1
+                         1.0.0.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.1.1.1
+NameResolutionResults  : 1.1.1.1
+                         1.0.0.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.0.0.1
+NameResolutionResults  : 1.0.0.1
+                         1.1.1.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+11/15/2020 7:04:45 PM
+192.168.1.28
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.1.1.1
+NameResolutionResults  : 1.1.1.1
+                         1.0.0.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 18:49:27
+
+computer name Resolve Addresses  Name Resolve ping success
+------------- -----------------  ------------ ------------
+              {1.0.0.1, 1.1.1.1}              
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 18:50:33
+
+computer name Resolve Addresses  Name Resolve ping success
+------------- -----------------  ------------ ------------
+              {1.0.0.1, 1.1.1.1}              
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 18:51:10
+
+computer name Resolve Addresses  Name Resolve ping success
+------------- -----------------  ------------ ------------
+              {1.0.0.1, 1.1.1.1}              
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 18:51:29
+
+computer name Resolve Addresses  Name Resolve ping success
+------------- -----------------  ------------ ------------
+              {1.0.0.1, 1.1.1.1}              
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 18:53:23
+
+computer name Resolve Addresses  Name Resolve ping success
+------------- -----------------  ------------ ------------
+              {1.1.1.1, 1.0.0.1}              
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 18:55:17
+
+computer name Resolve Addresses  Name Resolve ping success
+------------- -----------------  ------------ ------------
+              {1.1.1.1, 1.0.0.1}              
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 18:56:08
+
+ping success Resolve Addresses  Name Resolve computer name
+------------ -----------------  ------------ -------------
+             {1.1.1.1, 1.0.0.1}              
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:00:05
+
+ping success Resolve Addresses  Name Resolve computer name
+------------ -----------------  ------------ -------------
+             {1.0.0.1, 1.1.1.1}              
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:14:08
+
+Resolve Addresses  ping success Name Resolve computer name
+-----------------  ------------ ------------ -------------
+{1.1.1.1, 1.0.0.1}                           
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:18:53
+
+Resolve Addresses  ping success Name Resolve computer name
+-----------------  ------------ ------------ -------------
+{1.0.0.1, 1.1.1.1}                           
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:22:41
+
+Resolve Addresses  ping success Name Resolve computer name
+-----------------  ------------ ------------ -------------
+{1.0.0.1, 1.1.1.1}                           
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:27:08
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+                        {1.1.1.1, 1.0.0.1} 
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:27:59
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+                        {1.1.1.1, 1.0.0.1} 
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:30:47
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+                        {1.1.1.1, 1.0.0.1} 
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:33:14
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+                        {1.1.1.1, 1.0.0.1} 
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:34:57
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+                        {1.0.0.1, 1.1.1.1} 
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:35:10
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+       True       False {1.0.0.1, 1.1.1.1} 192.168.1.28
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:39:33
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+       True       False {1.1.1.1, 1.0.0.1} 192.168.1.28
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:49:20
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+       True       False {1.1.1.1, 1.0.0.1} 192.168.1.28
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:49:43
+
+NameResolve             pingsuccess             ResolveAddresses   computername
+-----------             -----------             ----------------   ------------
+TestNetConnectionResult TestNetConnectionResult {1.1.1.1, 1.0.0.1} 192.168.1.28
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:50:06
+
+NameResolve             pingsuccess             ResolveAddresses   computername
+-----------             -----------             ----------------   ------------
+TestNetConnectionResult TestNetConnectionResult {1.1.1.1, 1.0.0.1} 192.168.1.28
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:50:19
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+       True       False {1.1.1.1, 1.0.0.1} 192.168.1.28
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 19:51:06
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+       True       False {1.1.1.1, 1.0.0.1} 192.168.1.28
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 20:21:28
+
+NameResolve pingsuccess ResolveAddresses   computername
+----------- ----------- ----------------   ------------
+       True       False {1.0.0.1, 1.1.1.1} 192.168.1.28
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 20:21:40
+
+computername pingsuccess NameResolve ResolveAddresses
+------------ ----------- ----------- ----------------
+192.168.1.28       False        True {1.0.0.1, 1.1.1.1}
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 21:02:02
+
+computername pingsuccess NameResolve ResolveAddresses
+------------ ----------- ----------- ----------------
+192.168.1.28       False        True {1.1.1.1, 1.0.0.1}
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 21:05:14
+
+computername pingsuccess NameResolve ResolveAddresses
+------------ ----------- ----------- ----------------
+192.168.1.28       False        True {1.0.0.1, 1.1.1.1}
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 21:23:46
+
+computername pingsuccess NameResolve ResolveAddresses
+------------ ----------- ----------- ----------------
+192.168.1.28       False        True {1.1.1.1, 1.0.0.1}
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 21:28:46
+
+computername pingsuccess NameResolve ResolveAddresses
+------------ ----------- ----------- ----------------
+192.168.1.28       False        True {1.1.1.1, 1.0.0.1}
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 21:29:29
+
+computername pingsuccess NameResolve ResolveAddresses
+------------ ----------- ----------- ----------------
+192.168.1.28       False        True {1.1.1.1, 1.0.0.1}
+
+Computer thats being tested: 192.168.1.28
+Date and Time Tested: 11/22/2020 21:39:07
+
+pingsuccess computername NameResolve ResolveAddresses
+----------- ------------ ----------- ----------------
+      False 192.168.1.28        True {1.1.1.1, 1.0.0.1}
+

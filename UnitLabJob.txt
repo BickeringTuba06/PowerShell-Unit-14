@@ -1,0 +1,13 @@
+
+ComputerName           : one.one.one.one
+RemoteAddress          : 1.0.0.1
+NameResolutionResults  : 1.0.0.1
+                         1.1.1.1
+InterfaceAlias         : Ethernet 2
+SourceAddress          : 192.168.1.28
+NetRoute (NextHop)     : 192.168.1.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 
+PSComputerName         : 192.168.1.28
+
+

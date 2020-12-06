@@ -1,0 +1,354 @@
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-Service | Where-Object {$_.Status-eq "Running"}
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 32e87782-0875-4158-9388-1815e1166265
+Id            : 1
+Name          : GetRemServices
+ChildJobs     : {Job2}
+PSBeginTime   : 11/1/2020 7:09:14 PM
+PSEndTime     : 11/1/2020 7:09:15 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-CimInstance win32_operatingsystem
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 74e8441d-18f1-43f9-b252-c87a3cf07720
+Id            : 3
+Name          : GetRemOSInfo
+ChildJobs     : {Job4}
+PSBeginTime   : 11/1/2020 7:09:14 PM
+PSEndTime     : 11/1/2020 7:09:15 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-Service | Where-object {$_.status-eq "running"}
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 0a526420-d768-4d3e-8331-f946f46c43a9
+Id            : 5
+Name          : GetRemServices
+ChildJobs     : {Job6}
+PSBeginTime   : 11/1/2020 7:09:14 PM
+PSEndTime     : 11/1/2020 7:09:15 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-CimInstance win32_operatingsystem
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 19783366-0223-49df-971b-14e2ae3d4145
+Id            : 7
+Name          : GetOSInfo
+ChildJobs     : {Job8}
+PSBeginTime   : 11/1/2020 7:11:37 PM
+PSEndTime     : 11/1/2020 7:11:37 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-Service | Where-Object {$_.Status-eq "Running"}
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 06ae708b-45cb-4138-929d-0897502ed906
+Id            : 9
+Name          : GetRemServices
+ChildJobs     : {Job10}
+PSBeginTime   : 11/1/2020 7:12:18 PM
+PSEndTime     : 11/1/2020 7:12:19 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-CimInstance win32_operatingsystem
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 84d645ff-74df-4703-9746-54f1e26addee
+Id            : 11
+Name          : GetRemOSInfo
+ChildJobs     : {Job12}
+PSBeginTime   : 11/1/2020 7:12:18 PM
+PSEndTime     : 11/1/2020 7:12:19 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-Service | Where-object {$_.status-eq "running"}
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 2ac0a783-09cd-48cf-a019-d6400b382425
+Id            : 13
+Name          : GetRemServices
+ChildJobs     : {Job14}
+PSBeginTime   : 11/1/2020 7:12:18 PM
+PSEndTime     : 11/1/2020 7:12:19 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-CimInstance win32_operatingsystem
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : e6291504-6fae-444a-8ba9-2ec81b3347d1
+Id            : 15
+Name          : GetOSInfo
+ChildJobs     : {Job16}
+PSBeginTime   : 11/1/2020 7:12:18 PM
+PSEndTime     : 11/1/2020 7:12:19 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-Service | Where-Object {$_.Status-eq "Running"}
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 950dee22-cdf2-4a23-9c3e-bad78456b3ab
+Id            : 17
+Name          : GetRemServices
+ChildJobs     : {Job18}
+PSBeginTime   : 11/1/2020 7:12:24 PM
+PSEndTime     : 11/1/2020 7:12:25 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-CimInstance win32_operatingsystem
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : b31c5a35-c2a8-4302-aeef-f530368fdc69
+Id            : 19
+Name          : GetRemOSInfo
+ChildJobs     : {Job20}
+PSBeginTime   : 11/1/2020 7:12:24 PM
+PSEndTime     : 11/1/2020 7:12:25 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-Service | Where-object {$_.status-eq "running"}
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : af1c9d43-63c3-4585-85ad-00eac707ae7f
+Id            : 21
+Name          : GetRemServices
+ChildJobs     : {Job22}
+PSBeginTime   : 11/1/2020 7:12:24 PM
+PSEndTime     : 11/1/2020 7:12:25 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-CimInstance win32_operatingsystem
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 978f1a08-3d9f-4882-9296-9e555fd4c84e
+Id            : 23
+Name          : GetOSInfo
+ChildJobs     : {Job24}
+PSBeginTime   : 11/1/2020 7:12:24 PM
+PSEndTime     : 11/1/2020 7:12:25 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-Service | Where-Object {$_.Status-eq "Running"}
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 3a53ae33-f8fd-4f6b-affb-1e552b791ff5
+Id            : 25
+Name          : GetRemServices
+ChildJobs     : {Job26}
+PSBeginTime   : 11/1/2020 7:14:16 PM
+PSEndTime     : 11/1/2020 7:14:17 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-CimInstance win32_operatingsystem
+JobStateInfo  : Completed
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 72cff96e-1570-4e9a-9bb2-3896feedbd3f
+Id            : 27
+Name          : GetRemOSInfo
+ChildJobs     : {Job28}
+PSBeginTime   : 11/1/2020 7:14:16 PM
+PSEndTime     : 11/1/2020 7:14:17 PM
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Completed
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-Service | Where-Object {$_.Status-eq "Running"}
+JobStateInfo  : Running
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : 97c1f3c8-e51a-4ed1-9c8f-8b2151c2cc95
+Id            : 30
+Name          : GetRemServices
+ChildJobs     : {Job31}
+PSBeginTime   : 11/1/2020 7:16:49 PM
+PSEndTime     : 
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Running
+
+HasMoreData   : True
+StatusMessage : 
+Location      : 192.168.1.28
+Command       : Get-CimInstance win32_operatingsystem
+JobStateInfo  : Running
+Finished      : System.Threading.ManualResetEvent
+InstanceId    : fb1d86f3-ebda-4104-8995-834c98cfcb82
+Id            : 32
+Name          : GetRemOSInfo
+ChildJobs     : {Job33}
+PSBeginTime   : 11/1/2020 7:16:49 PM
+PSEndTime     : 
+PSJobTypeName : RemoteJob
+Output        : {}
+Error         : {}
+Progress      : {}
+Verbose       : {}
+Debug         : {}
+Warning       : {}
+Information   : {}
+State         : Running
+
+
